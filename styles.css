@@ -1,0 +1,6 @@
+.swiper {
+    width: 600px;
+    height: 100vh;
+  }
+
+.swiper-button-next::after {}
